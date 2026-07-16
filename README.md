@@ -9,11 +9,9 @@ Here you'll find a variety of projects I'm engaged in, whether it's building my 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SavageBeef&theme=dracula" alt="GitHub Stats" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SavageBeef&theme=dracula" alt="Top Languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SavageBeef&theme=dracula" alt="GitHub Stats" width="66%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SavageBeef&theme=dracula" alt="Top Languages" width="32%"/>
 </p>
-
----
 
 ## 💪 Activity Graph 
 
