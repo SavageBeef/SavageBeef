@@ -20,8 +20,8 @@ Here you'll find a variety of projects I'm engaged in, whether it's building my 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SavageBeef&theme=dracula" alt="GitHub Stats" width="66%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SavageBeef&theme=dracula" alt="Top Languages" width="32%"/>
+  <img src="https://github-profile-summary-cards-eta-lovat.vercel.app/api/cards/profile-details?username=SavageBeef&theme=dracula&animation=sequence&duration=3" alt="GitHub Stats" width="66%"/>
+  <img src="https://github-profile-summary-cards-eta-lovat.vercel.app/api/cards/most-commit-language?username=SavageBeef&theme=dracula&animation=sequence&duration=3" alt="Top Languages" width="32%"/>
 </p>
 
 ## 💪 Activity Graph 
